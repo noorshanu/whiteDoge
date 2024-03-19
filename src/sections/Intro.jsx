@@ -25,21 +25,21 @@ const Intro = () => {
           </div>
           <div className=" max-w-xl">
             <p className="font-semibold font-groot-one text-xl sm:text-3xl text-black  py-2">
-              Welcome to the wild world of DinoDoge!
+              Welcome to the wild world of GabeWhite!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-black  font-medium">
-              In the meme jungle, DinoDoge reigns supreme with his adorable
-              charm and endless memes! With his trusty sidekick, DinoDoge
+              In the meme jungle, GabeWhite reigns supreme with his adorable
+              charm and endless memes! With his trusty sidekick, GabeWhite
               spreads joy and laughter wherever he goes, making Solana brighter
               with every wag of his tail.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-black font-medium">
-            DinoDoge isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, DinoDoge offers more than just memes. 
+            GabeWhite isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, GabeWhite offers more than just memes. 
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-            From his hilarious antics to his groundbreaking DinoDoge Game and pet store, DinoDoge brings excitement and adventure to the crypto world! 
+            From his hilarious antics to his groundbreaking GabeWhite Game and pet store, GabeWhite brings excitement and adventure to the crypto world! 
             </h1>
           </div>
         </div>

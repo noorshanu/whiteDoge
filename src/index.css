@@ -46,7 +46,7 @@
 
   html,
   body {
-    @apply bg-[#029586] text-white  ;
+    @apply bg-[#fed548] text-white  ;
   }
 
   .container-wrapper {

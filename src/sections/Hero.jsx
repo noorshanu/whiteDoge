@@ -12,11 +12,11 @@ function Hero() {
                 <img
                   src="images/hore3.png"
                   alt=""
-                  className=" mx-auto floating"
+                  className=" mx-auto floating hidden sm:block"
                 />
               </div>
             </div>
-            <div className=" w-full hidden sm:block">
+            <div className=" w-full ">
               <div>
                 <img src="images/hero.png" alt="" className=" mx-auto " />
               </div>
@@ -38,7 +38,7 @@ function Hero() {
           <a
             href="https://solscan.io/token/5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9"
             target="_blank"
-            className="my-2 font-groot-one flex justify-center text-xs  text-black  border-[#f45a7c] sm:text-lg font-semibold border-2  rounded-2xl bg-[#029586cf] max-w-xl py-1 mx-auto"
+            className="my-2 font-groot-one flex justify-center text-xs  text-white  border-[#f45a7c] sm:text-lg font-semibold border-2  rounded-2xl bg-[#029586cf] max-w-xl py-1 mx-auto"
           >
             {" "}
             Contract : 5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9

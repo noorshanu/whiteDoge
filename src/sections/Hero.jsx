@@ -3,7 +3,7 @@ function Hero() {
     <section className=" pt-4  pb-[4rem]">
       <div className="container-wrapper">
         <h1 className=" font-groot-one text-2xl text-center sm:text-3xl font-semibold my-4 max-w-full sm:max-w-3xl mx-auto text-[#ffffff] border-2 border-[#f45a7c] rounded-2xl bg-[#029586cf] sm:text-[#ffffff] ">
-          GabeWhite is all about Memes, Cuteness, and Solana Jungle Adventure!
+        GABE laughter meets profits, and the bark leads to the moon!
         </h1>
         <div className="relative z-50">
           <div className=" flex justify-between flex-col sm:flex-row items-center ">

@@ -14,22 +14,22 @@ function MemeCards() {
       
         <div className=" w-full">
             <p className=" font-groot-one text-xl sm:text-3xl text-black font-semibold  py-2">
-            DinoDoge isn't your average meme coin - he's the next viral meme! 
+            Get ready for a wild ride with GABE's crazy meme creations, outrageous NFTs, lightning-fast trading bot, and immersive gaming experiences. We're all about bringing the fun to crypto!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-black  font-medium">
-              1. DinoDoge Game: Adventure awaits! Explore, collect, and have a blast in our dino-filled jungle!
+              1. Expansion of GABE Meme Universe: More memes, more laughs!
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-black font-medium">
-              2. DinoDoge Pet Store: Adopt your virtual pet today! Find the perfect furry friend in our sanctuary.
+              2. NFT Marketplace Launch: Own a piece of GABE history with our unique NFTs.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-              3. Staking: Earn rewards effortlessly! Support DinoDoge and hodl for rewards.
+              3. Enhancements to Trading Bot: Stay ahead of the game with our upgraded bot.
 
             </h1>
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-              3. Meme Creation: Laugh non-stop with our hilarious memes! Join the fun in the solana jungle!
+              4. Gaming Integration: Level up your gaming experience with GABE!
 
             </h1>
           </div>

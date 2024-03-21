@@ -36,7 +36,7 @@ function Hero() {
 
         <div className=" py-2">
           <a
-            href="https://solscan.io/token/5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9"
+            href="#"
             target="_blank"
             className="my-2 font-groot-one flex justify-center text-xs  text-white  border-[#f45a7c] sm:text-lg font-semibold border-2  rounded-2xl bg-[#029586cf] max-w-xl py-1 mx-auto"
           >
@@ -55,7 +55,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/4RWrhM81MtAEedgZw51EnUeJWXJyfdYWXZ3XpYHHaomc?t=1710748472452"
+            href="#"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ffffffcf] shadow-lg shadow-black/40 text-black  font-bold  border-[#f45a7c] border-2"
           >

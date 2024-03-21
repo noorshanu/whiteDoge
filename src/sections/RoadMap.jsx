@@ -22,22 +22,19 @@ function RoadMap() {
             <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 1</h1>
              
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7">•  Build community foundation.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• Do initial market research.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">•  Launch DinoDoge.</p>
+            <p className=" text-lg font-popins font-normal lh-1_7">• Launch and Non-stop meme creation to keep you laughing around the clock.</p>
+           
           
           
           </div>
 
-          <div className="bg-[#10999b95] py-5 px-5  rounded-md w-[100%] h-full border-2">
+          <div className="bg-[#10999b95] py-5 px-5  rounded-md w-[100%] h-[190px]  border-2">
           <div>
           <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 2</h1>
            
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7">• Grow community</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• Do partnerships.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• CMC & CG listing.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• Introduce Staking. .</p>
+            <p className=" text-lg font-popins font-normal lh-1_7">• Social Blitz: Share the GabeWhite vibe everywhere with seamless social media integration & trend everywhere.</p>
+           
        
 
           </div>
@@ -46,10 +43,8 @@ function RoadMap() {
           <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 3</h1>
              
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7">•  Open Pet Store.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• List on Tier 1 Exchange.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• Launch DinoDoge Game.</p>
-          
+            <p className=" text-lg font-popins font-normal lh-1_7">•  Epic Partnerships: Join forces with the best in the biz for a meme revolution like never before!.</p>
+
 
           </div>
         </div>

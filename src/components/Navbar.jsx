@@ -17,7 +17,7 @@ function Navbar() {
           />
 
           <p className=" text-xl font-bold font-groot-one text-[#ffffff] sm:text-[#000]">
-            Gabe White
+            Gabe
           </p>
         </div>
 

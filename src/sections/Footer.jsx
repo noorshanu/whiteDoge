@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex justify-between flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
           <p className="font-groot-one text-black">
-                Copyright 2024 Gabe. All Rights Reserved.
+                Copyright 2024 CuteDoge. All Rights Reserved.
               </p>
 
           </div>
@@ -18,10 +18,10 @@ const Footer = () => {
              
             </div>
             <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-              <a target="_blank" href="https://twitter.com/Gabe_solana">
+              <a target="_blank" href="https://twitter.com/CuteDoge_solana">
                 <FaTwitter fill="#fff" />
               </a>
-              <a target="_blank" href="https://t.me/gabe_solana">
+              <a target="_blank" href="https://t.me/CuteDoge_solana">
                 <FaTelegram fill="#fff" />
               </a>
             </div>

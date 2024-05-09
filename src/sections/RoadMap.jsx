@@ -33,7 +33,7 @@ function RoadMap() {
           <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 2</h1>
            
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7">• Social Blitz: Share the GabeWhite vibe everywhere with seamless social media integration & trend everywhere.</p>
+            <p className=" text-lg font-popins font-normal lh-1_7">• Social Blitz: Share the CuteDogeWhite vibe everywhere with seamless social media integration & trend everywhere.</p>
            
        
 

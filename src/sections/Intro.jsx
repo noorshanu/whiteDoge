@@ -25,14 +25,14 @@ const Intro = () => {
           </div>
           <div className=" max-w-xl">
             <p className="font-semibold font-groot-one text-xl sm:text-3xl text-black  py-2">
-            Welcome to GABE on Solana!
+            Welcome to CuteDoge on Solana!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-black  font-medium">
-            Meet GABE, the legendary dog meme coin on Solana! With a bark louder than a rocket launch and a sense of humor that's infectious, GABE brings energy, fun, and serious gains to the table. Our community is as wild and enthusiastic as the coin itself, making every moment a celebration.
+            Meet CuteDoge, the legendary dog meme coin on Solana! With a bark louder than a rocket launch and a sense of humor that's infectious, CuteDoge brings energy, fun, and serious gains to the table. Our community is as wild and enthusiastic as the coin itself, making every moment a celebration.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-black font-medium">
-            In a race against time, $GABE is your go-to for grabbing that special GEM for your moon bag
+            In a race against time, $CuteDoge is your go-to for grabbing that special GEM for your moon bag
             </h1>
 
             

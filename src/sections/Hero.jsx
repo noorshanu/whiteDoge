@@ -3,7 +3,7 @@ function Hero() {
     <section className=" pt-4  pb-[4rem]">
       <div className="container-wrapper">
         <h1 className=" font-groot-one text-2xl text-center sm:text-3xl font-semibold my-4 max-w-full sm:max-w-3xl mx-auto text-[#ffffff] border-2 border-[#f45a7c] rounded-2xl bg-[#029586cf] sm:text-[#ffffff] ">
-        GABE laughter meets profits, and the bark leads to the moon!
+        CuteDoge laughter meets profits, and the bark leads to the moon!
         </h1>
         <div className="relative z-50">
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
@@ -47,7 +47,7 @@ function Hero() {
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="https://t.me/gabe_solana"
+            href="https://t.me/CuteDoge_solana"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ffffffcf] shadow-lg shadow-black/40 text-black  font-bold  border-[#f45a7c] border-2"
           >

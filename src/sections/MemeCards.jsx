@@ -14,14 +14,14 @@ function MemeCards() {
       
         <div className=" w-full">
             <p className=" font-groot-one text-xl sm:text-3xl text-black font-semibold  py-2">
-            Get ready for a wild ride with GABE's crazy meme creations, outrageous NFTs, lightning-fast trading bot, and immersive gaming experiences. We're all about bringing the fun to crypto!
+            Get ready for a wild ride with CuteDoge's crazy meme creations, outrageous NFTs, lightning-fast trading bot, and immersive gaming experiences. We're all about bringing the fun to crypto!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-black  font-medium">
-              1. Expansion of GABE Meme Universe: More memes, more laughs!
+              1. Expansion of CuteDoge Meme Universe: More memes, more laughs!
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-black font-medium">
-              2. NFT Marketplace Launch: Own a piece of GABE history with our unique NFTs.
+              2. NFT Marketplace Launch: Own a piece of CuteDoge history with our unique NFTs.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
@@ -29,7 +29,7 @@ function MemeCards() {
 
             </h1>
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-              4. Gaming Integration: Level up your gaming experience with GABE!
+              4. Gaming Integration: Level up your gaming experience with CuteDoge!
 
             </h1>
           </div>

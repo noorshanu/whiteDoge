@@ -36,18 +36,18 @@ function Hero() {
 
         <div className=" py-2">
           <a
-            href="https://solscan.io/token/D5YxZiMjovWp8QTmHzX9KVvDPmGQ31rUWuW5EzEGcfKx"
+            href="https://solscan.io/token/"
             target="_blank"
             className="my-2 font-groot-one flex justify-center text-xs  text-white  border-[#f45a7c] sm:text-lg font-semibold border-2  rounded-2xl bg-[#029586cf] max-w-xl py-1 mx-auto"
           >
             {" "}
-            Contract : D5YxZiMjovWp8QTmHzX9KVvDPmGQ31rUWuW5EzEGcfKx
+            Contract : COMING SOON
           </a>
         </div>
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="https://t.me/CuteDoge_solana"
+            href="https://t.me/cutedogso"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ffffffcf] shadow-lg shadow-black/40 text-black  font-bold  border-[#f45a7c] border-2"
           >
@@ -55,7 +55,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/2SA4trfMbZoNV4PEYsqYLyJ3eqNpwPR9Qh3k2shSbGNt?t=1711229603924"
+            href="#"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ffffffcf] shadow-lg shadow-black/40 text-black  font-bold  border-[#f45a7c] border-2"
           >
